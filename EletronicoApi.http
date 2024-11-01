@@ -1,0 +1,6 @@
+@EletronicoApi_HostAddress = http://localhost:5298
+
+GET {{EletronicoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
